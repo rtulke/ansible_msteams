@@ -1,0 +1,5 @@
+- import_role:
+    role: ansible_msteams
+  vars:
+    webhook_url: https://outlook.office.com/webhook/...
+    comment: system restarted
